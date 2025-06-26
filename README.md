@@ -14,6 +14,9 @@ This project looks into the reasons why employees leave a company, using HR data
 
 I used Excel - pivot tables, charts, conditional formatting, power query, power pivot and basic statistical functions to explore relationships between variables like job role, satisfaction, work-life balance, and overtime.
 
+![Attrition](https://github.com/user-attachments/assets/c3e10d06-980e-47fd-882b-62df8f9421cb)
+
+
 ## -Data Sources-
 
 HR Data: The primary dataset used for this analysis is "hr_data.csv" file, containing detailed information about each employee within the organization.
